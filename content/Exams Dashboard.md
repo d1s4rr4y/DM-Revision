@@ -1,4 +1,5 @@
 ---
+title: "Exam Dashboard"
 aliases:
   - '"index"'
 ---

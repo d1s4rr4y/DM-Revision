@@ -1,6 +1,7 @@
 ---
 aliases:
-  - '"index"'
+  - index
+title: Exams Dashboard
 ---
 
 # Module Information
